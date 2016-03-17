@@ -8,8 +8,7 @@ Import the Postman Script. You will see the following screen
 
 ### Test Execution
 For Details of each test execution please read
-![Test Suite Details](https://github.com/rangv/AzureIoTHubRESTAPIs/blob/master/docs/IoTHub_HTTP_REST_APIs_By_Example_REST_Client.pdf "Test Suite Details")
-
+[Test Suite Details](https://github.com/rangv/AzureIoTHubRESTAPIs/blob/master/docs/IoTHub_HTTP_REST_APIs_By_Example_REST_Client.pdf  "Test Suite Details") 
 
 ### Screeshot of an executed test case
 ![Create Device](https://github.com/rangv/AzureIoTHubRESTAPIs/blob/master/images/CreateDevice.png "Create Device")
